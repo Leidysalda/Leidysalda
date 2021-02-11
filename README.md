@@ -1,4 +1,4 @@
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E1BAQEsrw6jcxiJfQ/company-background_10000/0/1612892316806?e=1613055600&v=beta&t=fH0iocDxJU9hRt6mqTDb-CrdI3NgL-RdNvNl3O3jnNw" width=300>
+<img align="left" src="https://pbs.twimg.com/profile_banners/488065579/1551909206/1500x500" width=300>
 
 <h2> Hello, I´m Leidy J. <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" width="50"></h2>
 
