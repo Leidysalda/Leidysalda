@@ -1,8 +1,8 @@
-<img align="left" src="https://pbs.twimg.com/profile_banners/488065579/1551909206/1500x500" width=300>
+<img align="left" src="https://pbs.twimg.com/profile_banners/488065579/1551909206/1500x500" width=350 height=175>
 
 <h2> Hello, I´m Leidy J. <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" width="50"></h2>
 
-Fullstack Software Developer, I´m study Systems Engineering at [Ean University](https://universidadean.edu.co/) and Programming at Holberton School.
+Fullstack Software Developer, I´m study Systems Engineering at [Ean University](https://universidadean.edu.co/) and Programming at [Holberton School](https://www.holbertonschool.com/).
 
 Co-founder of HackLabGirlsLatam #WomenInCibersecurity #WomenInSTEAM
 
